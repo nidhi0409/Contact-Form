@@ -1,0 +1,14 @@
+.form-container{
+	display: flex;
+	flex-direction: column;
+	margin: 100px;
+	margin-left: 500px;
+	margin-right: 500px;
+
+ 
+}
+.form-containe .input-container{
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 100px;
+}
